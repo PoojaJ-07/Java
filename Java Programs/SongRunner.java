@@ -17,7 +17,7 @@ class SongRunner
 		
 		String[] songNames={songName1,songName2,songName3,songName4,songName5,songName6,songName7,songName8,songName9,songName10};
 		
-		for(int begin=9;begin>=0;begin--)
+		for(int begin=songNames.length-1;begin>=0;begin--)
 		{
 			String name=songNames[begin];
 			System.out.println("Song name:"+name);

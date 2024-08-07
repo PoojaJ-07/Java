@@ -23,6 +23,7 @@ class Watch{
 	  System.out.println("Watch quality:"+watch.quality);
 	  
 	  Watch watch1=new Watch(90000,"Gold");
+	  watch1.brand="Fast track";
 	  watch1.quality="Good";
 	  System.out.println("Watch brand:"+watch1.brand);
 	  System.out.println("Watch Cost:"+watch1.cost);
