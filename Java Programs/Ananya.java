@@ -33,5 +33,6 @@ class Ananya
 		Knife knife1=new Knife(350,12);
 		Ananya ananya1=new Ananya(9877652493L,knife1);
 		ananya1.details();
+
 	}
 }

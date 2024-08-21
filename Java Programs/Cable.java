@@ -1,3 +1,4 @@
+
 class Cable{
 
     String color="Black"; //literal
